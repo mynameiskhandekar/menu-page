@@ -34,3 +34,11 @@
     box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
     height: 60px;
 }
+.side-menu .logo a {
+    position: absolute;
+    left: 50px;
+    color: gainsboro;
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: 700;
+}
