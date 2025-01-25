@@ -18,6 +18,8 @@
     line-height: 60px;
     font-size: 30px;
     font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s linear;
 }
 .side-menu {
     position: fixed;
@@ -26,6 +28,7 @@
     width: 240px;
     background-color: rgba(255, 255, 255, 0.1);
     box-shadow: 0 0 6px rgba(255, 255, 255, 0.5);
+    transition: all 0.3 linear;
 }
 .side-menu .logo {
     position: absolute;
@@ -84,7 +87,7 @@
     box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
 .but1 i:hover {
-    font-size: 38px;
+    font-size: 35px;
 }
 .but2 i:hover {
     font-size: 28px;
