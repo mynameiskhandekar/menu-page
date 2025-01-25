@@ -11,7 +11,7 @@
 #check {
     display: none;
 }
-.but1 {
+.but1 i {
     position: absolute;
     color: gainsboro;
     left: 15px;
@@ -42,7 +42,7 @@
     font-size: 27px;
     font-weight: 700;
 }
-.side-menu .but2 {
+.side-menu .but2 i {
     color: red;
     position: absolute;
     font-size: 25px;
