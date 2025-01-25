@@ -83,3 +83,9 @@
 .side-menu .menu li:hover {
     box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
+.but1 i:hover {
+    font-size: 38px;
+}
+.but2 i:hover {
+    font-size: 28px;
+}
