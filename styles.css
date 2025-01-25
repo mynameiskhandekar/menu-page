@@ -72,13 +72,14 @@
 
 .side-menu .social-media {
     position: absolute;
-    display: flex;
-    justify-content: space-evenly;
     left: 25%;
     bottom: 50px;
 }
-.social-media .social-media i{
+.social-media .social-media i {
     color: red;
     opacity: 0.5;
-    padding: 0 5px;
+    padding: 0 10px;
+}
+.side-menu .menu li:hover {
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
