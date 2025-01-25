@@ -51,6 +51,7 @@
     font-size: 25px;
     line-height: 60px;
     left: 210px;
+    cursor: pointer;
     /* opacity: 0; */
 }
 .side-menu .menu {
