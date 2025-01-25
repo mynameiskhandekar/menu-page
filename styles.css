@@ -56,3 +56,7 @@
     width: 100%;
     top: 100px;
 }
+.side-menu .menu li {
+    margin-top: 4px;
+    padding: 10px 15px;
+}
