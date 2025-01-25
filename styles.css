@@ -60,3 +60,8 @@
     margin-top: 4px;
     padding: 10px 15px;
 }
+.side-menu .menu i,a {
+    color: gainsboro;
+    text-decoration: none;
+    font-size: 20px;
+}
