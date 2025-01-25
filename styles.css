@@ -72,11 +72,13 @@
 
 .side-menu .social-media {
     position: absolute;
+    display: flex;
+    justify-content: space-evenly;
     left: 25%;
     bottom: 50px;
 }
-.social-media .sm-icons a,i {
+.social-media .social-media i{
     color: red;
     opacity: 0.5;
-    padding: 0 10px;
+    padding: 0 5px;
 }
