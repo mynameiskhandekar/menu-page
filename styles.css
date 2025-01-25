@@ -28,7 +28,15 @@
     width: 240px;
     background-color: rgba(255, 255, 255, 0.1);
     box-shadow: 0 0 6px rgba(255, 255, 255, 0.5);
-    transition: all 0.3 linear;
+    animation: slide 0.3s 0.2s 1 ease;
+}
+@keyframes slide {
+    from {
+        left: -240px;
+    }
+    to {
+        left: 0;
+    }
 }
 .side-menu .logo {
     position: absolute;
