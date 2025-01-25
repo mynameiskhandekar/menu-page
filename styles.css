@@ -11,3 +11,9 @@
 #check {
     display: none;
 }
+.but1 {
+    position: absolute;
+    color: gainsboro;
+    left: 15px;
+    line-height: 60px;
+}
