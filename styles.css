@@ -36,9 +36,17 @@
 }
 .side-menu .logo a {
     position: absolute;
-    left: 50px;
+    left: 30px;
     color: gainsboro;
     text-decoration: none;
     font-size: 27px;
     font-weight: 700;
+}
+.side-menu .but2 {
+    color: red;
+    position: absolute;
+    font-size: 25px;
+    line-height: 60px;
+    left: 210px;
+    /* opacity: 0; */
 }
