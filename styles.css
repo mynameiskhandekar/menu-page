@@ -75,7 +75,7 @@
     left: 25%;
     bottom: 50px;
 }
-.social-media .sm-icons i {
+.social-media .sm-icons a,i {
     color: red;
     opacity: 0.5;
     padding: 0 10px;
