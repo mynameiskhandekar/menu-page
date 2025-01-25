@@ -96,3 +96,6 @@
 #check:checked ~ .side-menu{
     left: 0;
 }
+#check:checked ~ .but1{
+    opacity: 0;
+}
