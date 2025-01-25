@@ -69,3 +69,14 @@
 .side-menu .menu i {
     padding-right: 7px;
 }
+
+.side-menu .social-media {
+    position: absolute;
+    left: 25%;
+    bottom: 50px;
+}
+.social-media .social-media a {
+    color: red;
+    opacity: 0.5;
+    padding: 0 10px;
+}
